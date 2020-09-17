@@ -400,7 +400,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 34.100006, y: -19}
+  m_AnchoredPosition: {x: 34, y: -19}
   m_SizeDelta: {x: 85.72632, y: 139.19629}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &198124035
@@ -593,7 +593,7 @@ GameObject:
   - component: {fileID: 299579118}
   - component: {fileID: 299579117}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: judul
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
