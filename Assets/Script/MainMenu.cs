@@ -8,7 +8,7 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("Lorong");
     }
 
     public void QuitGame()
@@ -18,7 +18,11 @@ public class MainMenu : MonoBehaviour
 
     public void ToLab()
     {
-        SceneManager.LoadScene("Lorong");
-        Debug.Log("lorong");
+        SceneManager.LoadScene("LabFisika");
+    }
+
+    public void ToMenu()
+    {
+        SceneManager.LoadScene("Menu");
     }
 }
