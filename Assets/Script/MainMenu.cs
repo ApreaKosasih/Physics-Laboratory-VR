@@ -25,4 +25,9 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Menu");
     }
+
+    public void ToMateri()
+    {
+        SceneManager.LoadScene("Materi");
+    }
 }
