@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
     path: Assets/Scenes/Lorong.unity
     guid: e77b26ae0f61cec47982b049af2c7b1f
+  - enabled: 1
+    path: Assets/Scenes/LabFisika.unity
+    guid: 7cdac5f630954e74f9a2d686cd94846e
+  - enabled: 1
+    path: Assets/Scenes/Materi.unity
+    guid: a26bd976ded158e429db99b18578ec1d
   m_configObjects: {}
